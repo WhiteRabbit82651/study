@@ -1,0 +1,4 @@
+git clean [repository]
+git add [file name]
+git commt -t
+git push master
