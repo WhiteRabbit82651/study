@@ -7,5 +7,7 @@
 【基本コマンド】
 git clean [repository]
 git add [file name]
-git commt -m "comment"
+git add -u
+git commit -m "comment"
+git commit -v
 git push origin main
