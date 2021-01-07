@@ -6,6 +6,8 @@
 ------------------------------------
 【基本コマンド】
 git clean [repository]
+git fetch --all -p
+git pull --ff
 git add [file name]
 git add -u
 git commit -m "comment"
