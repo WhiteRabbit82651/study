@@ -1,0 +1,8 @@
+;; 常に行番号を表示
+(global-linum-mode t)
+;; 通常のウィンドウ用の設定
+(setq-default truncate-lines t)
+;; ウィンドウを左右に分割したとき用の設定
+(setq-default truncate-partial-width-windows t)
+;; Welcomeウィンドウを表示しない
+(setq inhibit-startup-message t)

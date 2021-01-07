@@ -1,0 +1,8 @@
+;; Emacsで行番号を表示するコマンドです。
+M-x linum-mode
+
+;; 長い行の折り返し表示を切り換える
+M-x toggle-truncate-lines
+
+;; ウィンドウを1つにする
+C-x 1
