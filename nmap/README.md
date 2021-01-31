@@ -69,3 +69,7 @@ sudo sudo nmap -v -sS --port-ratio=0.0 <IP Address>
 ```
 参照：https://qiita.com/watarin/items/736b53b52675ef041e1c
 
+### すべてのポートをスキャンし、見つかったポートのソフト種別やバージョンも調べる
+```
+sudo nmap -p 1-65535 -T4 -A -v <IP Address>
+```
