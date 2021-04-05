@@ -32,7 +32,12 @@ https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017
 ![](./img/9.bmp)
 
 ## ツール > オプション > Xamarin > Android設定
+※ JDKとAndroid SDKがエラーになっている
 ![](./img/10.bmp)
+
+※ 一度ビルドしたら、勝手に入ってきていた  
+インストール済みの場合最適なものを探してくれる？  
+![](./img/17.bmp)
 
 ## ファイル > 新規作成 > プロジェクト
 ※絶対パスが長くなるとビルドできなくなるので注意  
