@@ -1,0 +1,12 @@
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\bin\Debug\netcoreapp3.1\MsgServer.exe
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\bin\Debug\netcoreapp3.1\MsgServer.deps.json
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\bin\Debug\netcoreapp3.1\MsgServer.runtimeconfig.json
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\bin\Debug\netcoreapp3.1\MsgServer.runtimeconfig.dev.json
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\bin\Debug\netcoreapp3.1\MsgServer.dll
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\bin\Debug\netcoreapp3.1\MsgServer.pdb
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\obj\Debug\netcoreapp3.1\MsgServer.AssemblyInfoInputs.cache
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\obj\Debug\netcoreapp3.1\MsgServer.AssemblyInfo.cs
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\obj\Debug\netcoreapp3.1\MsgServer.csproj.CoreCompileInputs.cache
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\obj\Debug\netcoreapp3.1\MsgServer.dll
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\obj\Debug\netcoreapp3.1\MsgServer.pdb
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgServer\MsgServer\obj\Debug\netcoreapp3.1\MsgServer.genruntimeconfig.cache

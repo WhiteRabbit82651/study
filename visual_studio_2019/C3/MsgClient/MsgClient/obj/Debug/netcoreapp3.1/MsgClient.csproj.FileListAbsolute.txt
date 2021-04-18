@@ -1,0 +1,13 @@
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\obj\Debug\netcoreapp3.1\MsgClient.csprojAssemblyReference.cache
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\obj\Debug\netcoreapp3.1\MsgClient.AssemblyInfoInputs.cache
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\obj\Debug\netcoreapp3.1\MsgClient.AssemblyInfo.cs
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\obj\Debug\netcoreapp3.1\MsgClient.csproj.CoreCompileInputs.cache
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\bin\Debug\netcoreapp3.1\MsgClient.exe
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\bin\Debug\netcoreapp3.1\MsgClient.deps.json
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\bin\Debug\netcoreapp3.1\MsgClient.runtimeconfig.json
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\bin\Debug\netcoreapp3.1\MsgClient.runtimeconfig.dev.json
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\bin\Debug\netcoreapp3.1\MsgClient.dll
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\bin\Debug\netcoreapp3.1\MsgClient.pdb
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\obj\Debug\netcoreapp3.1\MsgClient.dll
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\obj\Debug\netcoreapp3.1\MsgClient.pdb
+C:\Users\comp1\Documents\git\study\visual_studio_2019\C3\MsgClient\MsgClient\obj\Debug\netcoreapp3.1\MsgClient.genruntimeconfig.cache
