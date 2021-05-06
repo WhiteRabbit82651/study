@@ -11,7 +11,7 @@ COLOR_RED="#FF0000"
 COLOR_BLUE="#0066FF"
 
 FONT_TAG="<font color='%s'>%s</font>"
-DIV_TAG="<div style='text-align:center;'>%s<br>[+](%s)</div>"
+DIV_TAG="<div style='text-align:center;height:80px;width:80px;'>%s<br>[+](%s)</div>"
 README_FILE_NAME="%s%s%s\\README.md"
 
 PRINT_WEEKS="|%s|%s|%s|%s|%s|%s|%s|"
@@ -21,13 +21,16 @@ NONE_DAY="-"
 FILE_TITLE="# %s年%s月"
 
 def week_print():
-    sunday = FONT_TAG % (COLOR_RED, "sun")
-    monday = "mon"
-    tuesday = "tue"
-    wednesday = "wed"
-    thursday = "thu"
-    friday = "fri"
-    saturday = FONT_TAG % (COLOR_BLUE, "sat")
+    START_DIV = "<div style='text-align:center;width:80px;'>"
+    END_DIV   = "</div>"
+
+    sunday    = START_DIV + (FONT_TAG % (COLOR_RED, "sun")) + END_DIV
+    monday    = "%s%s%s" % (START_DIV, "mon", END_DIV)
+    tuesday   = "%s%s%s" % (START_DIV, "tue", END_DIV)
+    wednesday = "%s%s%s" % (START_DIV, "wed", END_DIV)
+    thursday  = "%s%s%s" % (START_DIV, "thu", END_DIV)
+    friday    = "%s%s%s" % (START_DIV, "fri", END_DIV)
+    saturday  = START_DIV + (FONT_TAG % (COLOR_BLUE, "sat")) + END_DIV
     print(PRINT_WEEKS % (sunday, monday, tuesday, wednesday, thursday, friday, saturday))
     print(PRINT_WEEKS % (SEPARATOR, SEPARATOR, SEPARATOR, SEPARATOR, SEPARATOR, SEPARATOR, SEPARATOR))
 
