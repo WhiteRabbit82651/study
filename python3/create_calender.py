@@ -12,7 +12,7 @@ COLOR_BLUE="#0066FF"
 
 FONT_TAG="<font color='%s'>%s</font>"
 DIV_TAG="<div style='text-align:center;height:80px;width:80px;'>%s<br>[+](%s)</div>"
-README_FILE_NAME="%s%s%s\\README.md"
+README_FILE_NAME="%s%s%s/README.md"
 
 PRINT_WEEKS="|%s|%s|%s|%s|%s|%s|%s|"
 SEPARATOR="--"
