@@ -109,6 +109,35 @@
 ## el_Message_Board@203.18.82.7
 - Naixの仲間のサーバー
 
+
+# Naixの仲間のサーバー関連
+
+## 103.31.7.34
+- ウロボロスのWebサイト
+
+## Tri al of Patience@103.31.7.38
+- ウロボロスのWebサイトのindex.htmlにかかれていたIP
+    - Proxyの突破にやたら時間がかかる
+    -  Reward_of_Patience:103
+
+## Trial of Haste@103.31.7.41
+- ウロボロスのWebサイトのindex.htmlにかかれていたIP
+    - Reward_of_Haste:33
+
+## Trial of Diligence@103.31.8.1
+- ウロボロスのWebサイトのindex.htmlにかかれていたIP
+    - Reward_of_がない？
+
+## Trial of Focus@103.31.7.211
+- ウロボロスのWebサイトのindex.htmlにかかれていたIP
+    - solve MALICE
+    
+## 69.172.201.208
+- ドライブの中身消せば勝ちとかイキっているサーバー
+
+## duok@199.89.130.68
+- いきりやからDouckが見つけたアドレス
+
 # Bit関連
 ## Bitwise_Test_PC@77.195.170.223
 - Bitが昔使っていたサーバー
