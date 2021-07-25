@@ -1,5 +1,16 @@
 
 # git command cheat sheet
+
+## 既存のプロジェクトをgithubに追加する方法
+```
+echo "# CSharpWifiSetting" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin githubのURL(https://github.com/ユーザー名/プロジェクト名.git)
+git push -u origin master
+```
 ## push時にユーザー名とパスワードを省略する方法】
 {cloneしたリポジトリDir}/.git/configを編集する  
 ```
