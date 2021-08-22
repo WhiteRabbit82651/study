@@ -88,3 +88,9 @@ git checkout -b [new branch name]
 ```
 git branch
 ```
+
+### gitの管理外にする
+- 下記はsample.txtを管理外にするコマンド
+```
+git rm --cached sample.txt
+```
